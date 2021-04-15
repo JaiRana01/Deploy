@@ -1,0 +1,38 @@
+
+.card-body{
+    
+    background:beige
+}
+.card-text{
+    color: black;
+     box-shadow:5px 5px 5px black;
+     
+     
+   
+    
+}
+.card-body {
+    transition:All 0.3749s ease-in-out;
+    -webkit-transition:All 0.3749s ease-in-out;
+    -moz-transition:All 0.3749s ease-in-out;
+    -o-transition:All 0.3749s ease-in-out;
+    transform: rotate(0deg) scale(1) skew(0deg) translate(0px);
+    -webkit-transform: rotate(0deg) scale(1) skew(0deg) translate(0px);
+    -moz-transform: rotate(0deg) scale(1) skew(0deg) translate(0px);
+    -o-transform: rotate(0deg) scale(1) skew(0deg) translate(0px);
+    -ms-transform: rotate(0deg) scale(1) skew(0deg) translate(0px);
+    }
+    .card-body :hover{
+    transform: rotate(0deg) scale(0.855) skew(-180deg) translate(0px);
+    -webkit-transform: rotate(0deg) scale(0.855) skew(-180deg) translate(0px);
+    -moz-transform: rotate(0deg) scale(0.855) skew(-180deg) translate(0px);
+    -o-transform: rotate(0deg) scale(0.855) skew(-180deg) translate(0px);
+    -ms-transform: rotate(0deg) scale(0.855) skew(-180deg) translate(0px)
+    }
+    
+.album py-5 bg-light{
+    background-color:black;
+}
+body{
+    background-color: burlywood;
+}
