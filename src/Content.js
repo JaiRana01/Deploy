@@ -13,7 +13,7 @@ const GameData = Games.map(
 
                 <div className="card shadow-sm">
                     
-                    <img src={Games.image} />
+                    <img src={Games.image} alt="" />
                     <div className="card-body">
                         <p className="card-text">{Games.description}</p>
 
